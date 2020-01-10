@@ -1,0 +1,11 @@
+Hunspell 0.1 Malayalam Dictionary package
+
+Copyright Terms : GPLv3 or later published by Free Software Foundation
+This word list is prepared by Santhosh Thottingal <santhosh00@gmail.com>
+and Swathanthra Malayalam Computing.
+URL : http://download.savannah.gnu.org/releases/smc/Spellchecker/
+
+How to install:
+1) Untar the package ooo-hunspell-ml-0.1.tar.bz2
+2) Copy the *.dic and *.aff file(s) to /usr/share/myspell
+3) Done
